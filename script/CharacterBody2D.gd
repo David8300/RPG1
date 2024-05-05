@@ -5,7 +5,7 @@ const velocidad = 150
 #@onready var player = $".."
 @onready var animacion = $AnimatedSprite2D
 #var mover = true
-#var objeto = false
+#var objet = false
 #
 #func _physics_process(_delta):
 	#if mover == true:

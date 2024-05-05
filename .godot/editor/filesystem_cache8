@@ -1,0 +1,35 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714926278
+escenas.tscn::PackedScene::4454477649652305314::1714925956::0::1::::<><>::uid://bot7uevn170q6::::res://SPRITE/Actor1.png<>res://script.gd
+icon.svg::CompressedTexture2D::3655999638257690246::1714925956::1714926186::1::::<><>::
+script.gd::GDScript::-1::1714925956::0::1::::<>CharacterBody2D<>::
+::res://escenas/::1714925956
+jugador.tscn::PackedScene::4454477649652305314::1714925956::0::1::::<><>::uid://bot7uevn170q6::::res://SPRITE/Actor1.png<>res://script.gd
+mundo.tscn::PackedScene::5136714268871131240::1714925956::0::1::::<><>::uid://d3vuynjurmlq3::::res://TILES/samplemap.png<>uid://b4p1ujcoot11o::::res://escenas/jugador.tscn
+player_1.tscn::PackedScene::88939092188559046::1714925956::0::1::::<><>::uid://bot7uevn170q6::::res://SPRITE/Actor1.png<>res://script/CharacterBody2D.gd<>res://script/Control.gd<>uid://c0gb4lcatptrf::::res://fonts/Beautiful Humility.otf<>uid://cea5munas18pe::::res://gui/pngegg.png
+::res://fonts/::1714926185
+Ace Records.ttf::FontFile::6655651944673728792::1714925956::1714926185::1::::<><>::
+Beautiful Humility.otf::FontFile::6540061810749841723::1714925956::1714926185::1::::<><>::
+BlackoakStd.otf::FontFile::6290915627527371355::1714925956::1714926185::1::::<><>::
+darkcrystaloutline.ttf::FontFile::4841505418156013223::1714925956::1714926185::1::::<><>::
+darkcrystaloutline_0.ttf::FontFile::8619035212256060587::1714925956::1714926185::1::::<><>::
+darkcrystalscript.ttf::FontFile::4803840135393758031::1714925956::1714926185::1::::<><>::
+darkcrystalscript_1.ttf::FontFile::6529207104700684019::1714925956::1714926185::1::::<><>::
+Japanese Style.ttf::FontFile::4788511240618262763::1714925956::1714926185::1::::<><>::
+Leap of Faith.ttf::FontFile::8297128568062816680::1714925956::1714926185::1::::<><>::
+mplus-1m-regular.ttf::FontFile::2819154968816159401::1714925956::1714926185::1::::<><>::
+SD Those good times of life.ttf::FontFile::2815304012432981768::1714925956::1714926185::1::::<><>::
+SWVLittleThings Script.otf::FontFile::1207066922437246999::1714925956::1714926185::1::::<><>::
+SWVLittleThings Script.ttf::FontFile::1198781209249278881::1714925956::1714926184::1::::<><>::
+SWVLittleThings.otf::FontFile::8147891246575911386::1714925956::1714926184::1::::<><>::
+SWVLittleThings.ttf::FontFile::421289834805136835::1714925956::1714926184::1::::<><>::
+::res://gui/::1714926185
+pngegg.png::CompressedTexture2D::5055440751822759222::1714925956::1714926185::1::::<><>::
+::res://script/::1714925956
+CharacterBody2D.gd::GDScript::-1::1714925956::0::1::::<>CharacterBody2D<>::
+Control.gd::GDScript::-1::1714925956::0::1::::<>Control<>::
+::res://SPRITE/::1714926185
+Actor1.png::CompressedTexture2D::3410266574760300707::1714925956::1714926185::1::::<><>::
+::res://TILES/::1714926188
+samplemap.png::CompressedTexture2D::9169159502327214744::1714925956::1714926188::1::::<><>::
+[Base]BaseChip_pipo.png::CompressedTexture2D::7844713000876502053::1714925956::1714926185::1::::<><>::
