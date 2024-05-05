@@ -145,7 +145,6 @@ animation = &"izquierda"
 speed_scale = 3.0
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
-enabled = false
 
 [node name="Area2D" type="Area2D" parent="CharacterBody2D" groups=["player"]]
 collision_layer = 2
