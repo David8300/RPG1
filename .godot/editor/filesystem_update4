@@ -2,3 +2,6 @@ res://escenas/player_1.tscn
 res://script/CharacterBody2D.gd
 res://escenas/mundo.tscn
 res://escenas.tscn
+res://escenas/casa.tscn
+res://escenas/casa.gd
+res://escenas/jugador.tscn

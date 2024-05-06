@@ -132,3 +132,4 @@ ignore_rotation = false
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 sprite_frames = SubResource("SpriteFrames_a1sjm")
 animation = &"izquierda"
+speed_scale = 5.0
