@@ -16,5 +16,4 @@ func _ready() -> void:
 
 
 func _on_button_pressed():
-	get_tree().add_child(player)  
-	get_tree().get_nodes_in_group(mundo)[0].queue_free()
+	get_tree().change_scene_to_file("res://escenas/player_1.tscn")
